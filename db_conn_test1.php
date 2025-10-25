@@ -1,5 +1,5 @@
 <?php
-// test upload
+
 $host = 'localhost'; // MySQL 호스트
 $username = 'time3313'; // MySQL 사용자명
 $password = '0000'; // MySQL 비밀번호
